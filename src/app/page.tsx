@@ -56,7 +56,6 @@ export default function Home() {
           <h2 className="text-2xl font-thin text-center text-white lg:text-4xl">
             Sign up for the waitlist below.
           </h2>
-\
           <form onSubmit={handleSubmit} className="space-y-4 mt-4 w-full max-w-md">
             <input 
               name="email"
